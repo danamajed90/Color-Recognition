@@ -35,8 +35,6 @@ Install them using:
 
 
 ## Project Files
-
-- openCV.ipynb : Main project code.
-- flag.jpg : Input image.
-- README.md 
-
+- `openCV.ipynb` : Main project code.
+- `flag.jpg` : Input image.
+- `README.md`
